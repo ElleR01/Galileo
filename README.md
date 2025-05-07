@@ -36,7 +36,7 @@ To set API keys you should follow different steps for each running environment:
 - **Google Colab**: you can set the API keys in secrets in left panel of the notebook.
 - **Local Machine**: you can set the API keys in the `.env` file in the root of the project directory.
 
-Use these following keys to define variables:
+Use these following keys to define variables (create '.env'):
 ```
 HUGGINGFACE_KEY=hf_...
 GROQ_KEY=gsk_...
